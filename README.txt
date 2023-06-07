@@ -1,0 +1,1 @@
+Nutritional Label built using HTML and CSS following the freeCodeCamp tutorial in order to learn some more about typography
